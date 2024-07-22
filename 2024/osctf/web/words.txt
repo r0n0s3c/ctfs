@@ -1,0 +1,17 @@
+cricket
+friends
+heads
+tails
+flipped
+coin
+toss
+lost
+lucky
+head
+tail
+osctf
+altered
+security
+app
+login
+admin

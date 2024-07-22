@@ -1,0 +1,6 @@
+get
+post
+head
+options
+put
+delete

